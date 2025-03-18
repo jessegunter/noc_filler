@@ -1,0 +1,10 @@
+Flask
+gspread
+pandas
+oauth2client
+pypdf
+gunicorn
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
