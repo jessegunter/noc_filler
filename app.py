@@ -15,7 +15,7 @@ from google.auth.transport.requests import Request
 app = Flask(__name__)
 
 # Google Drive Folder ID where PDFs will be uploaded
-DRIVE_FOLDER_ID = "1rgraQ-FORnbXEfFXRO-hpSR_vuDCW-50uCnfs61R3K8"  # Replace with your actual folder ID
+DRIVE_FOLDER_ID = "182w4vy2039GqbsZ7GvGY3u3RkRukwnYl"  # Replace with your actual folder ID
 
 def upload_to_drive(file_path):
     """Uploads a file to Google Drive."""
